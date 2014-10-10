@@ -1,0 +1,28 @@
+{
+  "name": "flaskause",
+  "version": "0.0.0",
+  "authors": [
+    "RemyD <remyd@civx.us>"
+  ],
+  "description": "flask site for decause",
+  "main": "run.py",
+  "keywords": [
+    "decause"
+  ],
+  "license": "AGPLv3+",
+  "homepage": "http://github.com/decause",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "bootstrap-material-design": "~0.1.0",
+    "gulp": "~3.8.8",
+    "jquery": "~2.1.1"
+  }
+}
